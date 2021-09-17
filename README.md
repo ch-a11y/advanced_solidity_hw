@@ -37,4 +37,4 @@ We tested the crowdsale by sending Ether to the crowdsale from a different accou
 
 ### Deploying the Crowdsale
 
-We deployed the Crowdsale successfully (see attached screenshots).
+We deployed the crowdsale to a testnet, noted the total gas cost to obtain information on what it would be in reality.
